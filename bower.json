@@ -1,0 +1,25 @@
+{
+  "name": "uqlibrary-signature",
+  "homepage": "https://github.com/uqlibrary/uqlibrary-signature",
+  "authors": [
+    "Jan-Willem Wisgerhof <jwwisgerhof@gmail.com>"
+  ],
+  "description": "Adds signature HTML and console logs",
+  "main": "uqlibrary-signature.js",
+  "keywords": [
+    "UQ",
+    "Library",
+    "Signature"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "*"
+  }
+}
